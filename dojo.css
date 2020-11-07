@@ -1,0 +1,35 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+.center-box{
+  padding: 10px;
+  display: flex;
+  justify-content: 10px;
+  align-items: center;
+  background-color: #3271a8;
+  
+}
+
+img{
+  height: 50px;
+  width: 50px;
+}
+
+h1{
+  color: whitesmoke;
+  font-family: 'Montserrat', sans-serif;
+}
+
+a{
+  text-decoration: none;
+  color: whitesmoke;
+}
+
+li{
+  display: inline;
+  text-decoration: none;
+  font-family: 'Montserrat', sans-serif;
+  color: whitesmoke;
+}
